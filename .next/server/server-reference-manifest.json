@@ -1,0 +1,84 @@
+{
+  "node": {
+    "7f2bcabf8cb4e8150abd82249cfcb52acc49e4a1b8": {
+      "workers": {
+        "app/page": {
+          "moduleId": "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2FUsers%2Fdariusargueta%2FDesktop%2FProgramming%2FGithub%2FHomeAway%2Futils%2Factions.ts%22%2C%5B%5B%227f2bcabf8cb4e8150abd82249cfcb52acc49e4a1b8%22%2C%22createProfileAction%22%5D%2C%5B%227f7c1b53d641b9ead8973ed435778b82f72934c55e%22%2C%22fetchProfileImage%22%5D%5D%5D%5D&__client_imported__=!",
+          "async": false
+        },
+        "app/profile/page": {
+          "moduleId": "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2FUsers%2Fdariusargueta%2FDesktop%2FProgramming%2FGithub%2FHomeAway%2Futils%2Factions.ts%22%2C%5B%5B%227f2bcabf8cb4e8150abd82249cfcb52acc49e4a1b8%22%2C%22createProfileAction%22%5D%2C%5B%227f7c1b53d641b9ead8973ed435778b82f72934c55e%22%2C%22fetchProfileImage%22%5D%5D%5D%5D&__client_imported__=!",
+          "async": false
+        },
+        "app/profile/create/page": {
+          "moduleId": "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2FUsers%2Fdariusargueta%2FDesktop%2FProgramming%2FGithub%2FHomeAway%2Futils%2Factions.ts%22%2C%5B%5B%227f2bcabf8cb4e8150abd82249cfcb52acc49e4a1b8%22%2C%22createProfileAction%22%5D%2C%5B%227f7c1b53d641b9ead8973ed435778b82f72934c55e%22%2C%22fetchProfileImage%22%5D%5D%5D%5D&__client_imported__=!",
+          "async": false
+        },
+        "app/_not-found/page": {
+          "moduleId": "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2FUsers%2Fdariusargueta%2FDesktop%2FProgramming%2FGithub%2FHomeAway%2Futils%2Factions.ts%22%2C%5B%5B%227f2bcabf8cb4e8150abd82249cfcb52acc49e4a1b8%22%2C%22createProfileAction%22%5D%2C%5B%227f7c1b53d641b9ead8973ed435778b82f72934c55e%22%2C%22fetchProfileImage%22%5D%5D%5D%5D&__client_imported__=!",
+          "async": false
+        }
+      },
+      "layer": {
+        "app/page": "rsc",
+        "app/profile/page": "rsc",
+        "app/profile/create/page": "rsc",
+        "app/_not-found/page": "rsc"
+      }
+    },
+    "7f7c1b53d641b9ead8973ed435778b82f72934c55e": {
+      "workers": {
+        "app/page": {
+          "moduleId": "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2FUsers%2Fdariusargueta%2FDesktop%2FProgramming%2FGithub%2FHomeAway%2Futils%2Factions.ts%22%2C%5B%5B%227f2bcabf8cb4e8150abd82249cfcb52acc49e4a1b8%22%2C%22createProfileAction%22%5D%2C%5B%227f7c1b53d641b9ead8973ed435778b82f72934c55e%22%2C%22fetchProfileImage%22%5D%5D%5D%5D&__client_imported__=!",
+          "async": false
+        },
+        "app/profile/page": {
+          "moduleId": "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2FUsers%2Fdariusargueta%2FDesktop%2FProgramming%2FGithub%2FHomeAway%2Futils%2Factions.ts%22%2C%5B%5B%227f2bcabf8cb4e8150abd82249cfcb52acc49e4a1b8%22%2C%22createProfileAction%22%5D%2C%5B%227f7c1b53d641b9ead8973ed435778b82f72934c55e%22%2C%22fetchProfileImage%22%5D%5D%5D%5D&__client_imported__=!",
+          "async": false
+        },
+        "app/profile/create/page": {
+          "moduleId": "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2FUsers%2Fdariusargueta%2FDesktop%2FProgramming%2FGithub%2FHomeAway%2Futils%2Factions.ts%22%2C%5B%5B%227f2bcabf8cb4e8150abd82249cfcb52acc49e4a1b8%22%2C%22createProfileAction%22%5D%2C%5B%227f7c1b53d641b9ead8973ed435778b82f72934c55e%22%2C%22fetchProfileImage%22%5D%5D%5D%5D&__client_imported__=!",
+          "async": false
+        },
+        "app/_not-found/page": {
+          "moduleId": "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2FUsers%2Fdariusargueta%2FDesktop%2FProgramming%2FGithub%2FHomeAway%2Futils%2Factions.ts%22%2C%5B%5B%227f2bcabf8cb4e8150abd82249cfcb52acc49e4a1b8%22%2C%22createProfileAction%22%5D%2C%5B%227f7c1b53d641b9ead8973ed435778b82f72934c55e%22%2C%22fetchProfileImage%22%5D%5D%5D%5D&__client_imported__=!",
+          "async": false
+        }
+      },
+      "layer": {
+        "app/page": "rsc",
+        "app/profile/page": "rsc",
+        "app/profile/create/page": "rsc",
+        "app/_not-found/page": "rsc"
+      }
+    },
+    "7f478a3d1f8a5bef0a6ccbcf7c4c6c5ab88d1dd497": {
+      "workers": {
+        "app/page": {
+          "moduleId": "(action-browser)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2FUsers%2Fdariusargueta%2FDesktop%2FProgramming%2FGithub%2FHomeAway%2Fnode_modules%2F%40clerk%2Fnextjs%2Fdist%2Fesm%2Fapp-router%2Fserver-actions.js%22%2C%5B%5B%227f478a3d1f8a5bef0a6ccbcf7c4c6c5ab88d1dd497%22%2C%22invalidateCacheAction%22%5D%5D%5D%5D&__client_imported__=true!",
+          "async": false
+        },
+        "app/profile/page": {
+          "moduleId": "(action-browser)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2FUsers%2Fdariusargueta%2FDesktop%2FProgramming%2FGithub%2FHomeAway%2Fnode_modules%2F%40clerk%2Fnextjs%2Fdist%2Fesm%2Fapp-router%2Fserver-actions.js%22%2C%5B%5B%227f478a3d1f8a5bef0a6ccbcf7c4c6c5ab88d1dd497%22%2C%22invalidateCacheAction%22%5D%5D%5D%5D&__client_imported__=true!",
+          "async": false
+        },
+        "app/profile/create/page": {
+          "moduleId": "(action-browser)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2FUsers%2Fdariusargueta%2FDesktop%2FProgramming%2FGithub%2FHomeAway%2Fnode_modules%2F%40clerk%2Fnextjs%2Fdist%2Fesm%2Fapp-router%2Fserver-actions.js%22%2C%5B%5B%227f478a3d1f8a5bef0a6ccbcf7c4c6c5ab88d1dd497%22%2C%22invalidateCacheAction%22%5D%5D%5D%5D&__client_imported__=true!",
+          "async": false
+        },
+        "app/_not-found/page": {
+          "moduleId": "(action-browser)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2FUsers%2Fdariusargueta%2FDesktop%2FProgramming%2FGithub%2FHomeAway%2Fnode_modules%2F%40clerk%2Fnextjs%2Fdist%2Fesm%2Fapp-router%2Fserver-actions.js%22%2C%5B%5B%227f478a3d1f8a5bef0a6ccbcf7c4c6c5ab88d1dd497%22%2C%22invalidateCacheAction%22%5D%5D%5D%5D&__client_imported__=true!",
+          "async": false
+        }
+      },
+      "layer": {
+        "app/page": "action-browser",
+        "app/profile/page": "action-browser",
+        "app/profile/create/page": "action-browser",
+        "app/_not-found/page": "action-browser"
+      }
+    }
+  },
+  "edge": {},
+  "encryptionKey": "VE2R8GHkUV6umYDkOhQRs3lFpLlgtwJil+TdtstmwY8="
+}
