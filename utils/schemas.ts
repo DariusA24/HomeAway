@@ -32,7 +32,7 @@ export const imageSchema = z.object({
 
 function validateFile() {
     const maxUploadSize = 1024 * 1024; 
-    const acceptedFilesTypes = ['images/']; 
+    const acceptedFilesTypes = ['image/']; 
     return z.instanceof(File).refine((file) => {
         return !file || file.size <= maxUploadSize
     }, 'File size must be less than 1 MB').refine((file) => {
